@@ -13,7 +13,6 @@ package example.domain;
 import java.time.LocalDate;
 
 public class Person {
-
 	public enum Gender {
 		F, M
 	}
